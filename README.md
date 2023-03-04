@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 
 ![Joohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjh073&show_icons=true&theme=radical)
 
